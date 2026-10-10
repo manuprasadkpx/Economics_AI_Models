@@ -1,21 +1,6 @@
 # Move Beyond ChatGPT and Claude for Economics Research
 ## 25+ AI models and specialist tools for econometrics, finance, and empirical research
 
-> **Purpose:** A practical, link-rich guide to lesser-known AI models and specialist tools that can complement (not necessarily replace) ChatGPT, Claude, and Gemini in economics and finance research.
->
-> **Last reviewed:** October 2026  
-> **Audience:** Economics and finance students, PhD researchers, research assistants, quantitative analysts, policy researchers, and data scientists.
-
-The economics research workflow is changing quickly. General-purpose chatbots are useful, but they are only one layer of a modern research stack. Researchers can now combine alternative language models, literature-discovery systems, financial-data platforms, AI-assisted coding, causal-inference libraries, and tools that convert unstructured documents into structured datasets.
-
-This guide is organised in two parts:
-
-1. **Ten alternative AI models and assistants** to test beyond ChatGPT and Claude.
-2. **Special-purpose tools** for literature reviews, economic data, econometrics, causal inference, financial analysis, and research automation.
-
-This is a practical shortlist, not a universal leaderboard. Model quality, pricing, regional availability, free quotas, and product names change frequently. Check each official website for the current release and terms.
-
----
 
 ## Contents
 
